@@ -1,0 +1,7 @@
+streamlit
+requests
+pydantic
+firecrawl-py
+agno
+google-generativeai
+google-genai
