@@ -1,8 +1,1 @@
-
-fc-0f71fa610adf4cf0b306e8dec3a78e69 - firecrawl api key
-ak_UZnvtDAyTtiri0aO2PS5 - composio api key 
-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
-AIzaSyBcMKNVwXM-B6Q7Yor88Z2wgyflCQAxm90 - gemini api key
-
-py -3.12 -m pip install -r requirements.txt
-py -3.12 -m streamlit run "c:\Users\Sathish kumar\Downloads\Lead_Generation_agent-main\Lead_Generation_agent-main\ai_lead_generation_agent.py"
+Expose the keys needed and proceed to run the streamlit
